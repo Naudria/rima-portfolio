@@ -11,7 +11,7 @@ export default class About extends Component {
           <div className="seven columns main-col">
             <h2>I do full stack web development & design.</h2>
             <p>I'm based out of Houston, Texas. I recently graduated from 
-        the <a href="https://flatironschool.com/campuses/houston/">Flatiron School Full Stack Web Development Program</a>.With experience in Ruby on Rails, JavaScript, and React, I discovered web development through my background as a web designer. This portfolio is just a sample of my work. For more detailed information on my
+        the <a href="https://flatironschool.com/campuses/houston/">Flatiron School Full Stack Web Development Program</a>. With experience in Ruby on Rails, JavaScript, and React, I discovered web development through my background as a web designer. This portfolio is just a sample of my work. For more detailed information on my
 experience please <a href="contact.html">contact me.</a></p>
             <p>That’s me in seventh grade, by the way. I dress better nowadays, in case you were worried.</p>
 
