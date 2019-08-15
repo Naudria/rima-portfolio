@@ -13,7 +13,7 @@ export default class About extends Component {
             <p>I'm based out of Houston, Texas. I recently graduated from 
         the <a href="https://flatironschool.com/campuses/houston/">Flatiron School Full Stack Web Development Program</a>. With experience in Ruby on Rails, JavaScript, and React, I discovered web development through my background as a web designer. This portfolio is just a sample of my work. For more detailed information on my
 experience please <a href="contact.html">contact me.</a></p>
-            <p>That’s me in seventh grade, by the way. I dress better nowadays, in case you were worried.</p>
+            <p>That’s me in seventh grade, by the way. (You can't see the picture if you're on your phone. Sorry. Better get to a desktop lest you miss this opportunity to blackmail me someday.) I dress better nowadays, in case you were worried.</p>
 
             
             <div className="row">
