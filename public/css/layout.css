@@ -77,7 +77,7 @@ header .banner-text h3 {
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
-   font: 400 48px 'Cookie', Helvetica, sans-serif;
+   font: 32px 'librebaskerville-regular', serif;
 }
 header .banner-text hr {
    width: 60%;
