@@ -248,7 +248,7 @@ export default class Portfolio extends Component {
             <span className="categories"><i className="fa fa-tag" />Ruby on Rails, Javascript</span>
           </div>
           <div className="link-box">
-            <a href="#" target="_blank">See it in action</a>
+            <a href="#" target="_blank">See it in action (Coming Soon)</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-01 End */}
