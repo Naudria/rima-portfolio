@@ -188,7 +188,7 @@ export default class Portfolio extends Component {
             <span className="categories"><i className="fa fa-tag" />Javascript, jQuery</span>
           </div>
           <div className="link-box">
-            <a href="https://rima-todo.herokuapp.com/" target="_blank">See it in action</a>
+            <a href="https://github.com/Naudria/rima-todo" target="_blank">See the code</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-04 End */}
