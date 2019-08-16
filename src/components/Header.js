@@ -13,7 +13,7 @@ export default class Header extends Component {
             
             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
             
-            <li><a className="smoothscroll" href="mailto:rima.jean@gmail.com?Subject=Hello%20There">Contact</a></li>
+            <li><a className="smoothscroll" target="_top" href="mailto:rima.jean@gmail.com?Subject=Hello%20There">Contact</a></li>
           </ul> {/* end #nav */}
         </nav> {/* end #nav-wrap */}
         <div className="row banner">

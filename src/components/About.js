@@ -12,7 +12,7 @@ export default class About extends Component {
             <h2>I do full stack web development & design.</h2>
             <p>I'm based out of Houston, Texas. I recently graduated from 
         the <a href="https://flatironschool.com/campuses/houston/">Flatiron School Full Stack Web Development Program</a>. With experience in Ruby on Rails, JavaScript, and React, I discovered web development through my background as a web designer. This portfolio is just a sample of my work. For more detailed information on my
-experience please <a href="contact.html">contact me.</a></p>
+experience please <a target="_top" href="mailto:rima.jean@gmail.com?Subject=Hello%20There">contact me.</a></p>
             <p>That’s me in seventh grade, by the way. (You can't see the picture if you're on your phone. Sorry. Better get to a desktop lest you miss this opportunity to blackmail me someday.) I dress better nowadays, in case you were worried.</p>
 
             
@@ -21,7 +21,7 @@ experience please <a href="contact.html">contact me.</a></p>
                 <h2>Email Me</h2>
                 <p className="address">
                   
-                  <span><a href="mailto:rima.jean@gmail.com?Subject=Hello%20There" >rima.jean@gmail.com</a></span>
+                  <span><a target="_top" href="mailto:rima.jean@gmail.com?Subject=Hello%20There" >rima.jean@gmail.com</a></span>
                 </p>
               </div>
               <div className="columns download">
