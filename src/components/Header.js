@@ -13,7 +13,7 @@ export default class Header extends Component {
             
             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
             
-            <li><a className="smoothscroll" target="_top" href="mailto:rima.jean@gmail.com?Subject=Hello%20There">Contact</a></li>
+            <li><a className="smoothscroll" href="#about">Contact</a></li>
           </ul> {/* end #nav */}
         </nav> {/* end #nav-wrap */}
         <div className="row banner">
@@ -23,7 +23,7 @@ export default class Header extends Component {
             <hr />
             <ul className="social">
               <li><a href="https://github.com/Naudria/"><i className="fa fa-github" /></a></li>
-              <li><a href="https://www.deviantart.com/fictionchick/gallery/"><i className="fa fa-deviantart" /></a></li>
+              <li><a href="https://www.deviantart.com/fictionchick/gallery/47186552/my-personal-faves"><i className="fa fa-deviantart" /></a></li>
               <li><a href="https://www.linkedin.com/in/rima-jean-789b57102/"><i className="fa fa-linkedin" /></a></li>
               {/*<li><a href="https://join.skype.com/invite/ErjumtAbvuwR"><i className="fa fa-skype" /></a></li>*/}
             </ul>
