@@ -25,7 +25,7 @@ export default class Header extends Component {
               <li><a href="https://github.com/Naudria/"><i className="fa fa-github" /></a></li>
               <li><a href="https://www.deviantart.com/fictionchick/gallery/47186552/my-personal-faves"><i className="fa fa-deviantart" /></a></li>
               <li><a href="https://www.linkedin.com/in/rima-jean-789b57102/"><i className="fa fa-linkedin" /></a></li>
-              {/*<li><a href="https://join.skype.com/invite/ErjumtAbvuwR"><i className="fa fa-skype" /></a></li>*/}
+              <li><a href="https://dribbble.com/FictionChick"><i className="fa fa-dribbble" /></a></li>
             </ul>
           </div>
         </div>
