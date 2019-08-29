@@ -96,7 +96,7 @@ export default class Portfolio extends Component {
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-07" title>
-                    <img alt="" src="images/portfolio/pho-wireframe.png" />
+                    <img alt="" src="images/portfolio/PHO.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Pho Hotel Wireframe/Prototype</h5>
@@ -220,7 +220,7 @@ export default class Portfolio extends Component {
           <img className="scale-with-grid" src="images/portfolio/modals/m-pho.jpg" alt="" />
           <div className="description-box">
             <h4>Pho Hotel Wireframe/Prototype</h4>
-            <p>Conducted user research, created user personas, and built wireframes in Sketch for a hypothetical hotel mobile app. Created paper prototypes to test flow and user experience.</p>
+            <p>Conducted user research, created user personas, and built wireframes and prototypes in Adobe XD for a hypothetical hotel mobile app. Created paper prototypes to test flow and user experience.</p>
             <span className="categories"><i className="fa fa-tag" />UI/UX</span>
           </div>
           <div className="link-box">
