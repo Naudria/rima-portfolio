@@ -11,6 +11,7 @@ export default class Footer extends Component {
               <li><a href="https://github.com/Naudria/"><i className="fa fa-github" /></a></li>
               <li><a href="https://www.deviantart.com/fictionchick/gallery/"><i className="fa fa-deviantart" /></a></li>
               <li><a href="https://www.linkedin.com/in/rima-jean-789b57102/"><i className="fa fa-linkedin" /></a></li>
+              <li><a href="https://dribbble.com/FictionChick"><i className="fa fa-dribbble" /></a></li>
             </ul>
             <ul className="copyright">
               <li>© Copyright 2019 Rima</li>

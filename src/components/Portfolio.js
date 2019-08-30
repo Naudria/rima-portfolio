@@ -224,7 +224,7 @@ export default class Portfolio extends Component {
             <span className="categories"><i className="fa fa-tag" />UI/UX</span>
           </div>
           <div className="link-box">
-           <a href="https://xd.adobe.com/view/7d13b3d9-401d-4b09-6bea-dd93c5e4b382-0b22/" target="_blank">See it in action</a>
+           <a href="https://xd.adobe.com/view/7d58f845-6e93-41b5-7848-f6b06ddf48d7-0b69/" target="_blank">See it in action</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-07 End */}
