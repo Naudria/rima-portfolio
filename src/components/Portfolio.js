@@ -136,6 +136,20 @@ export default class Portfolio extends Component {
                   </a>
                 </div>
               </div> {/* item end */}
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <a href="#modal-10" title>
+                    <img alt="" src="images/portfolio/PM_large.png" />
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h5>Personal Portfolio Mockup</h5>
+                        <p>UI/UX</p>
+                      </div>
+                    </div>
+                    <div className="link-icon"><i className="icon-plus" /></div>
+                  </a>
+                </div>
+              </div> {/* item end */}
               
                
             </div> {/* portfolio-wrapper end */}
@@ -249,6 +263,18 @@ export default class Portfolio extends Component {
           </div>
           <div className="link-box">
             <a href="https://github.com/Naudria/beers-app" target="_blank">See the code</a>
+            <a className="popup-modal-dismiss">Close</a>
+          </div>
+        </div>{/* modal-01 End */}
+        <div id="modal-10" className="popup-modal mfp-hide">
+          <img className="scale-with-grid" src="images/portfolio/modals/PM_close.png" alt="" />
+          <div className="description-box">
+            <h4>Personal Portfolio Mockup</h4>
+            <p>A one-page portfolio for web designed in Adobe XD.</p>
+            <span className="categories"><i className="fa fa-tag" />UI/UX</span>
+          </div>
+          <div className="link-box">
+            <a href="https://github.com/Naudria/beers-app" target="_blank">See it in action</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-01 End */}
