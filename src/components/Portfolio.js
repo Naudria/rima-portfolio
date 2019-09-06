@@ -139,7 +139,7 @@ export default class Portfolio extends Component {
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-10" title>
-                    <img alt="" src="images/portfolio/PM_large.png" />
+                    <img alt="" src="images/portfolio/MP_cut.png" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Personal Portfolio Mockup & Template</h5>
@@ -267,7 +267,7 @@ export default class Portfolio extends Component {
           </div>
         </div>{/* modal-01 End */}
         <div id="modal-10" className="popup-modal mfp-hide">
-          <img className="scale-with-grid" src="images/portfolio/modals/PM_close.png" alt="" />
+          <img className="scale-with-grid" src="images/portfolio/modals/PM_large.png" alt="" />
           <div className="description-box">
             <h4>Personal Portfolio Mockup & Template</h4>
             <p>A one-page portfolio for web designed in Adobe XD and hand-coded using CSS grids, CSS animations, jQuery, and Javascript.</p>
