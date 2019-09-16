@@ -106,7 +106,7 @@
       width: auto;
       position: fixed;
       top: 0;
-      right: 0;
+      left: 0;
    }
    #nav-wrap > a {
 	   width: 48px;

@@ -150,7 +150,20 @@ export default class Portfolio extends Component {
                   </a>
                 </div>
               </div> {/* item end */}
-              
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <a href="#modal-11" title>
+                    <img alt="" src="images/portfolio/GlossTravel.png" />
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h5>Gloss Travel Mockup & Bootstrap Template</h5>
+                        <p>UI/UX, HTML/CSS, Bootstrap</p>
+                      </div>
+                    </div>
+                    <div className="link-icon"><i className="icon-plus" /></div>
+                  </a>
+                </div>
+              </div> {/* item end */}
                
             </div> {/* portfolio-wrapper end */}
           </div> {/* twelve columns end */}
@@ -270,11 +283,23 @@ export default class Portfolio extends Component {
           <img className="scale-with-grid" src="images/portfolio/modals/PM_large.png" alt="" />
           <div className="description-box">
             <h4>Personal Portfolio Mockup & Template</h4>
-            <p>A one-page portfolio for web designed in Adobe XD and hand-coded using CSS grids, CSS animations, jQuery, and Javascript.</p>
+            <p>A responsive one-page portfolio designed in Adobe XD and hand-coded using CSS grids, CSS animations, jQuery, and Javascript.</p>
             <span className="categories"><i className="fa fa-tag" />UI/UX, HTML/CSS, Javascript</span>
           </div>
           <div className="link-box">
             <a href="http://portfolio.fictionchick.com/" target="_blank">See it in action</a>
+            <a className="popup-modal-dismiss">Close</a>
+          </div>
+        </div>{/* modal-01 End */}
+        <div id="modal-11" className="popup-modal mfp-hide">
+          <img className="scale-with-grid" src="images/portfolio/modals/gloss.png" alt="" />
+          <div className="description-box">
+            <h4>Gloss Travel Mockup & Bootstrap Template</h4>
+            <p>A responsive travel website designed in Adobe XD and hand-coded using Bootstrap.</p>
+            <span className="categories"><i className="fa fa-tag" />UI/UX, HTML/CSS, Bootstrap</span>
+          </div>
+          <div className="link-box">
+            <a href="http://gloss.fictionchick.com/" target="_blank">See it in action</a>
             <a className="popup-modal-dismiss">Close</a>
           </div>
         </div>{/* modal-01 End */}
